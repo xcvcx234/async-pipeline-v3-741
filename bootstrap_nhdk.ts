@@ -1,0 +1,1 @@
+const service_nhdk = <T>(args: T): T => { return args; };
